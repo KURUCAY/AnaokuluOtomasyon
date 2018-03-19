@@ -1,0 +1,3 @@
+6,mert,turkoglu,2,erkek,11111111116,ankara
+5,ayse,seyir,5,kız,11111111115,bursa
+1,sulasdasdas,kasdas,0,kiz,123123,yeni mahalle vsvs

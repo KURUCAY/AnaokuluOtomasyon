@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BoyaliEllerDB" Class="linkDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\BoyaliEllerDB.mdf;Integrated Security=True" SettingsObjectName="BoyaliEller.Properties.Settings" SettingsPropertyName="BoyaliEllerDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.KullaniciGiris" Member="KullaniciGiris">
+    <Type Name="KullaniciGiri">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KullaniciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KullaniciSifre" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Veliler" Member="Velilers">
+    <Type Name="Veliler">
+      <Column Name="VeliID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VeliAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VeliSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VeliTelefon" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Column Name="VeliAdres" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="VeliTC" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Association Name="Veliler_Ogrenciler" Member="Ogrencilers" ThisKey="VeliID" OtherKey="VeliID" Type="Ogrenciler" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ogrenciler" Member="Ogrencilers">
+    <Type Name="Ogrenciler">
+      <Column Name="OgrenciID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OgrenciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrenciSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrenciYasi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OgrenciCinsiyet" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="OgrenciTC" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Column Name="OgrenciAdres" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="VeliID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OgretmenID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Ogretmenler_Ogrenciler" Member="Ogretmenler" ThisKey="OgretmenID" OtherKey="OgretmenID" Type="Ogretmenler" IsForeignKey="true" />
+      <Association Name="Veliler_Ogrenciler" Member="Veliler" ThisKey="VeliID" OtherKey="VeliID" Type="Veliler" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ogretmenler" Member="Ogretmenlers">
+    <Type Name="Ogretmenler">
+      <Column Name="OgretmenID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OgretmenAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgretmenSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgretmenCinsiyet" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="OgretmenTelefon" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Column Name="OgretmenAdres" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="OgretmenTC" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Column Name="OgretmenMaas" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Ogretmenler_Ogrenciler" Member="Ogrencilers" ThisKey="OgretmenID" OtherKey="OgretmenID" Type="Ogrenciler" />
+    </Type>
+  </Table>
+</Database>

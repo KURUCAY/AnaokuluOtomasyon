@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="link">
+  <DataContextMoniker Name="/linkDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f2b81fb7-17d3-4efd-bbd9-7e7d1a90fb5f" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/linkDataContext/KullaniciGiri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ef3017c-fa9e-496d-824e-1f613abe1639" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8e514035-8968-4823-a47a-ef4fe0ca00e9" absoluteBounds="4, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/linkDataContext/Veliler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e63beff-7fc3-411b-b73e-012c338f9822" absoluteBounds="4.0150000000000006, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f589673-1a3b-42a8-84eb-7291da6b0d0d" absoluteBounds="0.5, 3.125, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/linkDataContext/Ogrenciler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1f44fd2e-7638-4362-b65e-fbe70b77d892" absoluteBounds="0.515, 3.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="afb83c5e-1145-4aa8-8e1a-b845ac1bc245" absoluteBounds="3.25, 3.25, 2, 2.347801106770834">
+      <DataClassMoniker Name="/linkDataContext/Ogretmenler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3d2af04-4963-4005-b894-e972078eb6d7" absoluteBounds="3.265, 3.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.25 : 4.42390055338542); (2.5 : 4.42390055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/linkDataContext/Ogretmenler/Ogretmenler_Ogrenciler" />
+      <nodes>
+        <classShapeMoniker Id="afb83c5e-1145-4aa8-8e1a-b845ac1bc245" />
+        <classShapeMoniker Id="7f589673-1a3b-42a8-84eb-7291da6b0d0d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4 : 2.51849609375); (0.59375 : 2.51849609375); (0.59375 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/linkDataContext/Veliler/Veliler_Ogrenciler" />
+      <nodes>
+        <classShapeMoniker Id="8e514035-8968-4823-a47a-ef4fe0ca00e9" />
+        <classShapeMoniker Id="7f589673-1a3b-42a8-84eb-7291da6b0d0d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

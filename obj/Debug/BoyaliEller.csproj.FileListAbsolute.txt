@@ -1,0 +1,79 @@
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\bin\Debug\BoyaliEller.exe.config
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\bin\Debug\BoyaliEllerDB.mdf
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\bin\Debug\BoyaliEllerDB_log.ldf
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\bin\Debug\BoyaliEller.exe
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\bin\Debug\BoyaliEller.pdb
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.Form1.resources
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.Properties.Resources.resources
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.exe
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.pdb
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+c:\users\kurucay\documents\visual studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEller\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+D:\projeyedekler\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.exe.config
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.exe
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.pdb
+D:\projeyedekler\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEllerDB.mdf
+D:\projeyedekler\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEllerDB_log.ldf
+D:\projeyedekler\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.exe
+D:\projeyedekler\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.pdb
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Form1.resources
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Properties.Resources.resources
+D:\projeyedekler\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.exe.config
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEllerDB.mdf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEllerDB_log.ldf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\bin\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Form1.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.Properties.Resources.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllermethodcalisiyor\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\bin\Debug\BoyaliEller.exe.config
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\bin\Debug\BoyaliEllerDB.mdf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\bin\Debug\BoyaliEllerDB_log.ldf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\bin\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\bin\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.Form1.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.Properties.Resources.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\BoyaliEllergirispaneli\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\bin\Debug\BoyaliEller.exe.config
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\bin\Debug\BoyaliEllerDB.mdf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\bin\Debug\BoyaliEllerDB_log.ldf
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\bin\Debug\BoyaliEller.exe
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\bin\Debug\BoyaliEller.pdb
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.Form1.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.Properties.Resources.resources
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+C:\Users\KURUCAY\Documents\Visual Studio 2015\Projects\boyalıellerson\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\bin\Debug\BoyaliEllerDB.mdf
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\bin\Debug\BoyaliEllerDB_log.ldf
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\bin\Debug\BoyaliEller.exe.config
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\bin\Debug\BoyaliEller.exe
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\bin\Debug\BoyaliEller.pdb
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.csprojResolveAssemblyReference.cache
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.Form1.resources
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.Properties.Resources.resources
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.csproj.GenerateResource.Cache
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.csproj.CoreCompileInputs.cache
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.exe
+E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.pdb
