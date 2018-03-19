@@ -24,10 +24,8 @@ Sistem  öğrenci,Öğretmen ve Veli işlemleri olarak 3 gruba ayrılır.Sistemd
 
 <p>
 <a href="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/linq%20tablo%20baglantılarıa.PNG" target="_blank">
-<img src="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/linq%20tablo%20baglantılarıa.PNG" width="200" style="max-width:100%;"></a>
-<p>
-<a href="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/giris%20ekrania.PNG
-" target="_blank">
-<img src="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/giris%20ekrania.PNG
-" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/linq%20tablo%20baglantılarıa.PNG" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/giris%20ekrania.PNG" target="_blank">
+<img src="https://github.com/KURUCAY/AnaokuluOtomasyon/blob/master/ekran%20görüntüleri/giris%20ekrania.PNG" width="200" style="max-width:100%;"></a>
   
