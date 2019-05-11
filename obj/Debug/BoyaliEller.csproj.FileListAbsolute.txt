@@ -77,3 +77,17 @@ E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.csproj
 E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.csproj.CoreCompileInputs.cache
 E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.exe
 E:\PC\2013222010_anaokulu_otomasyon\boyalıellerson\obj\Debug\BoyaliEller.pdb
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\bin\Debug\BoyaliEllerDB.mdf
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\bin\Debug\BoyaliEllerDB_log.ldf
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\bin\Debug\BoyaliEller.exe.config
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\bin\Debug\BoyaliEller.exe
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\bin\Debug\BoyaliEller.pdb
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.csprojAssemblyReference.cache
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.Ana_Sayfa.resources
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.Form1.resources
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.Ogrenci_Sayfasi.resources
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.Properties.Resources.resources
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.csproj.GenerateResource.cache
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.csproj.CoreCompileInputs.cache
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.exe
+C:\Users\BATUR\Desktop\özelkonularlab\AnaokuluOtomasyon\obj\Debug\BoyaliEller.pdb

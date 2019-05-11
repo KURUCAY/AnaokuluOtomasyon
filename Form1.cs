@@ -30,11 +30,13 @@ namespace BoyaliEller
                 Ana_Sayfa syf = new Ana_Sayfa();
                 syf.Show();
                 this.Hide();
+                MessageBox.Show("Başarılı Giriş");
             }
             else
             {
                 tut = rnd.Next(10000, 99999);
                 lblDogrula.Text = tut.ToString();
+                MessageBox.Show("Hatalı Giriş");
             }
         }
 
@@ -130,5 +132,20 @@ namespace BoyaliEller
 
             }
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+            {
+                txtKullaniciSifre.PasswordChar = '*';
+
+            }
+            else
+            {
+                txtKullaniciSifre.PasswordChar = '\0';
+            }
+        }
+
+
     }
 }
